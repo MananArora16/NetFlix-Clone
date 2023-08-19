@@ -20,7 +20,7 @@ const Navbar = () => {
       <img className="nav__logo" src="./netflix-logo.png" alt="netflix-logo" />
       <img
         className="nav__avatar"
-        src="/netflix-avatar.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
         alt="netflix-avatar"
       />
     </div>
